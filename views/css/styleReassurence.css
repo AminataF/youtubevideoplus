@@ -1,0 +1,23 @@
+#carousel .carousel-inner{
+  /* display: contents; */
+  width: auto;
+  height: auto;
+}
+
+#carousel .carousel-inner .carousel-item iframe{
+  width: 100%;
+  height: auto;
+}
+
+.btn-carousel{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+}
+
+@media (max-width: 990px) {
+    #carousel{
+      display: contents;
+  }
+
+}
