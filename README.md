@@ -1,4 +1,4 @@
-# youtubevideoplus
+# Youtube Vidéos Plus
 Module prestashop Youtube vidéos Plus.
 
 Ce module me permet :
